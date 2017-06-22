@@ -1,0 +1,24 @@
+{
+  "name": "hapi-example",
+  "version": "1.0.0",
+  "description": "Hapi example",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilobsi/Hapi-Example.git"
+  },
+  "keywords": [
+    "js",
+    "hapi"
+  ],
+  "author": "Danilo Batista da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilobsi/Hapi-Example/issues"
+  },
+  "homepage": "https://github.com/danilobsi/Hapi-Example#readme"
+}
